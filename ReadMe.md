@@ -1,4 +1,17 @@
 # Cours de programmation année 2023 - 2024 
+## Info Pratique 
+
+1. Créer un compte github 
+2. "froker" ce dépôt sur sur votre dépôt github -> possibilté de le renommer + prenez toutes les branches
+3. Merci de m'ajouter comme collaborateur à votre dépôt  
+3. sur votre machine -> créer un répertoire vide (ex : "initialEtudiant_PROG" -> xxx_PROG) 
+4. depuis "sourcetree" ou en ligne de commande -> cloner le dépôt github sur votre repertoire (machine) 
+
+5. MAJ de vos fichier sources / headerfile / autre 
+6. depuis "sourcetree" ou en ligne de commande -> ajouter vos modification 
+7. depuis "sourcetree" ou en ligne de commande -> mettre un commentaire de la modification apportée  
+8. depuis "sourcetree" ou en ligne de commande -> mettre à jour votre dépot Github avec la notion du push  
+
 ## Exercice 2 - codage 
 
 ### Groupe
