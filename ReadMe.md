@@ -1,8 +1,25 @@
 # Cours de programmation année 2023 - 2024 
-## Info Pratique 
+## **Infos Pratique - Bonne pratique git** 
 
-1. Créer un compte github 
-2. "froker" ce dépôt sur sur votre dépôt github -> possibilté de le renommer + prenez toutes les branches
+	1. Créer un compte sur serveur GIT => pour l'ES nous utiliserons Github
+	
+	
+| **ligne de Commande**  | **SourceTree**  |
+| --- | --- | 
+| ```   
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NomUserGithub/nomDepot.git
+git push -u origin main	
+``` | ??? | 
+	
+	
+	
+	
+**A MODIFIER**  	
+2. "forker" ce dépôt sur sur votre dépôt github -> possibilté de le renommer + prenez toutes les branches
 3. Merci de m'ajouter comme collaborateur à votre dépôt  
 3. sur votre machine -> créer un répertoire vide (ex : "initialEtudiant_PROG" -> xxx_PROG) 
 4. depuis "sourcetree" ou en ligne de commande -> cloner le dépôt github sur votre repertoire (machine) 
@@ -11,6 +28,9 @@
 6. depuis "sourcetree" ou en ligne de commande -> ajouter vos modification 
 7. depuis "sourcetree" ou en ligne de commande -> mettre un commentaire de la modification apportée  
 8. depuis "sourcetree" ou en ligne de commande -> mettre à jour votre dépot Github avec la notion du push  
+
+
+
 
 ## Exercice 2 - codage 
 
