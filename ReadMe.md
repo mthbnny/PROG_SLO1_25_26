@@ -1,24 +1,18 @@
 # Cours de programmation année 2023 - 2024 
 ## **Infos Pratique - Bonne pratique git** 
 
-	1. Créer un compte sur serveur GIT => pour l'ES nous utiliserons Github
+1. Créer un compte sur serveur GIT => pour l'ES nous utiliserons Github
 	
 	
 | **ligne de Commande**  | **SourceTree**  |
 | --- | --- | 
-| ```   
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/NomUserGithub/nomDepot.git
-git push -u origin main	
-``` | ??? | 
+| ![cmd Git](/doc/cmdGitBasic.PNG) | ![info SourceTree]() | 
+  
+
 	
-	
-	
-	
+
 **A MODIFIER**  	
+
 2. "forker" ce dépôt sur sur votre dépôt github -> possibilté de le renommer + prenez toutes les branches
 3. Merci de m'ajouter comme collaborateur à votre dépôt  
 3. sur votre machine -> créer un répertoire vide (ex : "initialEtudiant_PROG" -> xxx_PROG) 
