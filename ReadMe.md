@@ -1,11 +1,42 @@
 # Cours de programmation année 2023 - 2024 
-## **Infos Pratique - Bonne pratique git** 
+## Infos Pratique - Bonne pratique git
 
-1. Créer un compte sur serveur GIT => pour l'ES nous utiliserons Github
+1. Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color: #FF0000">Github</span>
 	
+=> **deux approches possible** <= 
+
+* => vous créez et gére votre **propre dépôt** (local - serveur)
+ 
+	* => sur votre machine, créez un **répertoire vide** où vous voulez   
+	* => sur votre serveur Git, créer un dépôt (new repository) 
+	* => lié les deux :  
+
+*=> en ligne de commande* => ouvrir un **shell** => placez-vous dans votre répertoire vide (point 2_A) :  
+		
+```
+	git init
+	git branch -M votreBranche
+	git remote add origin https://github.com/nomUserGit/votreNomDepotGit.git
+```
+
+*=> avec un outil graphqiue* -> sourceTree pour l'ES
+	
+
+
+
+
+
+
+
+
+	
+*V_B* => vous utiliser un **dépôt existant** (serveur) 
+
+
+
 	
 | **ligne de Commande**  | **SourceTree**  |
-| --- | --- | 
+|:---:|:---:| 
 | ![cmd Git](/doc/cmdGitBasic.PNG) | ![info SourceTree]() | 
   
 
