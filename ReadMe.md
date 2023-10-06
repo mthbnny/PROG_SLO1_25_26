@@ -49,10 +49,10 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | -[ABR](https://github.com/AlanBadertscher)- | -[NBS](https://github.com/NicolasBessson)- | -[ACL](https://github.com/Sweedy3960)- | -[TCT](https://github.com/Tass1l0)- | -[EDO](https://github.com/etideoliveira)- | -[VCO](https://github.com/kediven)- | -[KGR](https://github.com/Kazanaris)- | -[JJE](https://github.com/SwissMaverick)- | -[TMK](https://github.com/ThomasMlynek)- | -[LPI](https://github.com/luisalexanderP)- | -[MSI](https://github.com/MatteoStefanelli)- | -[KSA](https://github.com/Isand159)- | -JBN(https://github.com/blitshteynjacobES)- |
+| Exercice \ Initial Etudiant | **[ABR](https://github.com/AlanBadertscher)** | **[NBS](https://github.com/NicolasBessson)** | **[ACL](https://github.com/Sweedy3960)** | **[TCT](https://github.com/Tass1l0)** | **[EDO](https://github.com/etideoliveira)** | **[VCO](https://github.com/kediven)** | **[KGR](https://github.com/Kazanaris)** | **[JJE](https://github.com/SwissMaverick)** | **[TMK](https://github.com/ThomasMlynek)** | **[LPI](https://github.com/luisalexanderP)** | **[MSI](https://github.com/MatteoStefanelli)** | **[KSA](https://github.com/Isand159)** | **[JBN](https://github.com/blitshteynjacobES)** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Ex1 | OK | OK| OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | 
-| Ex2 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
+| Ex2 | xx% / NOK | xx% / NOK| OK | NOK | OK | NOK |xx% / NOK|xx% / NOK| OK |xx% / NOK| NOK | OK | xx% / NOK| 
 | Ex3 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex4 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex5 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
