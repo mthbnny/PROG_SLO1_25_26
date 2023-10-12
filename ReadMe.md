@@ -52,7 +52,7 @@
 | Exercice \ Initial Etudiant | **[ABR](https://github.com/AlanBadertscher)** | **[NBS](https://github.com/NicolasBessson)** | **[ACL](https://github.com/Sweedy3960)** | **[TCT](https://github.com/Tass1l0)** | **[EDO](https://github.com/etideoliveira)** | **[VCO](https://github.com/kediven)** | **[KGR](https://github.com/Kazanaris)** | **[JJE](https://github.com/SwissMaverick)** | **[TMK](https://github.com/ThomasMlynek)** | **[LPI](https://github.com/luisalexanderP)** | **[MSI](https://github.com/MatteoStefanelli)** | **[KSA](https://github.com/Isand159)** | **[JBN](https://github.com/blitshteynjacobES)** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Ex1 | OK | OK| OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | 
-| Ex2 | xx% / NOK | xx% / NOK| OK | NOK | OK | NOK |xx% / NOK|xx% / NOK| OK |xx% / NOK| NOK | OK | xx% / NOK| 
+| Ex2 | NOK | NOK | push -> non validé | NOK | push -> non validé | NOK | NOK | NOK | push -> non validé | NOK | NOK | push -> non validé | NOK | 
 | Ex3 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex4 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex5 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
@@ -77,18 +77,23 @@
 | Ex24 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex25 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 
- 
-
-
-
-
-
-## Exercice 2 - codage 
-
+## Exercice 2
+---
 ### Groupe
-* Vitor | Tassilo | Luis => Jackson 
-* Thomas | Etienne | Karol | Aymeric => Pseudo Code 
-* Alan | Nicolas | Kirian => Flow chart 
-* Matteo | Jaccob | Jérémie => NSI    
+* Vitor | Tassilo | Luis 
+* Thomas | Etienne | Karol | Aymeric 
+* Alan | Nicolas | Kirian  
+* Matteo | Jaccob | Jérémie   
 
-pour chaque groupe -> création d'une branche que vous nommerez le nom du diagaramme de flux que vous utilisez 
+=> Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
+
+=> Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir #3
+
+## Exercice 3
+---
+
+=> codage "individuel" 
+
+=> etat d'avancement => voir #4
+
+
