@@ -78,22 +78,23 @@
 | Ex25 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 
 ## Exercice 2
----
 ### Groupe
 * Vitor | Tassilo | Luis 
 * Thomas | Etienne | Karol | Aymeric 
 * Alan | Nicolas | Kirian  
 * Matteo | Jaccob | Jérémie   
 
+###Suivi projet
 => Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
 
-=> Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir #3
+=> Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir is:issue #3
 
 ## Exercice 3
----
+###Suivi projet
+=> etat d'avancement => voir is:issue #4
 
 => codage "individuel" 
 
-=> etat d'avancement => voir #4
+
 
 
