@@ -53,7 +53,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Ex1 | OK | OK| OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | 
 | Ex2 | NOK | NOK | push -> non validé | NOK | push -> non validé | NOK | NOK | NOK | push -> non validé | NOK | NOK | push -> non validé | NOK | 
-| Ex3 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
+| Ex3 | xx% / NOK | ~50% done / review by PBO / no fixed |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex4 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex5 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex6 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
