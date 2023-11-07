@@ -53,7 +53,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Ex1 | OK | OK| OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | 
 | Ex2 | NOK | NOK | push -> non validé | NOK | push -> non validé | NOK | NOK | NOK | push -> non validé | NOK | NOK | push -> non validé | NOK | 
-| Ex3 | xx% / NOK | ~50% done / review by PBO / no fixed |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
+| Ex3 | xx% / NOK |  issue [#6]() / no fixed |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex4 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex5 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
 | Ex6 | xx% / NOK |xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK|xx% / NOK| 
@@ -84,13 +84,13 @@
 * Alan | Nicolas | Kirian  
 * Matteo | Jaccob | Jérémie   
 
-###Suivi projet
+### Suivi projet
 => Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
 
 => Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir is:issue #3
 
 ## Exercice 3
-###Suivi projet
+### Suivi projet
 => etat d'avancement => voir is:issue #4
 
 => codage "individuel" 
