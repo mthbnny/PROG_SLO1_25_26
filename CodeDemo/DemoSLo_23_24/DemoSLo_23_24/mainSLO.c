@@ -8,11 +8,11 @@
 //
 // Description          : fichier source démo SLO
 //
-// Remarques 			: lien pour la table ASCII :-> http://www.asciitable.com/
-//						  lien pour la fct sizeof : https://www.geeksforgeeks.org/sizeof-operator-c/
-//						  ATTENTION -> sizeof est une fct, elle retourne quelque chose 
+// Remarques 			: lien pour la table ASCII :	-> http://www.asciitable.com/
+//						  lien pour la fct sizeof : 	-> https://www.geeksforgeeks.org/sizeof-operator-c/
+//						  								ATTENTION -> sizeof est une fct, elle retourne quelque chose 
 //						
-// Théorie 				: voir le chapitre 1 / 2 / 3 / 4 
+// Théorie 				: voir les chapitres 1 / 2 / 3 / 4 / 5
 //----------------------------------------------------------------------------------//
 //-- délcaration des libraires systèmes --// 
 #include <stdio.h>				// lib standard pour les entrée sortie 
