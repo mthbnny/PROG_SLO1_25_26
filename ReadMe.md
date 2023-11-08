@@ -55,7 +55,7 @@ Desciption à venir !!!
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Ex1 | OK | OK| OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | 
 | Ex2 | NOK | NOK | push -> non validé | NOK | push -> non validé | NOK | NOK | NOK | push -> non validé | NOK | NOK | push -> non validé | NOK | 
-| Ex3 | NOK |  issue [#6](/issues/6) / no fixed | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 | NOK |  issue [#6](PROG_SLO1_23_24/issues/6) / no fixed | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  
 | Ex5 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex6 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -89,17 +89,17 @@ Desciption à venir !!!
 ### Suivi projet
 => Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
 
-=> Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir is:issue #3
+=> Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir [#3](PROG_SLO1_23_24/issues/3)
 
 ## Exercice 3
 ### Suivi projet
 => codage "individuel" 
 
-=> etat d'avancement => voir is:issue #4
+=> etat d'avancement => voir [#4](PROG_SLO1_23_24/issues/4)
 
 ## Exercice 4
 ### Suivi projet
-=> état d'avancement
+=> état d'avancement => [#4](PROG_SLO1_23_24/issues/4)
 
 ## TESTS & PROJET => SLO1 
 ### Test1 Novembre 2023
