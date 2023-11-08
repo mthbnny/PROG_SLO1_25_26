@@ -1,5 +1,5 @@
 # Cours de programmation année 2023 - 2024 
-## Infos Pratique - Bonne pratique git
+## Infos pratiques pour la gestion des vos dépôts GIT
 
 1. Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color: #FF0000">Github</span>
 	
@@ -22,22 +22,23 @@
 	git remote add origin https://github.com/nomUserGit/votreNomDepotGit.git
 	```
 
-* => avec un outil graphqiue* -> sourceTree pour l'ES 
+=> avec un outil graphqiue -> **sourceTree** pour l'ES 
 
 Desciption à venir !!!
 	
 
+
+
+
+**A MODIFIER**
+---
 *V_B* => vous utiliser un **dépôt existant** (serveur) 
 
 
 | **ligne de Commande**  | **SourceTree**  |
 |:---:|:---:| 
 | ![cmd Git](/docGit/cmdGitBasic.PNG) | ![info SourceTree]() | 
-  
-	
-
-**A MODIFIER**  	
-
+ 
 2. "forker" ce dépôt sur sur votre dépôt github -> possibilté de le renommer + prenez toutes les branches
 3. Merci de m'ajouter comme collaborateur à votre dépôt  
 3. sur votre machine -> créer un répertoire vide (ex : "initialEtudiant_PROG" -> xxx_PROG) 
@@ -47,6 +48,8 @@ Desciption à venir !!!
 6. depuis "sourcetree" ou en ligne de commande -> ajouter vos modification 
 7. depuis "sourcetree" ou en ligne de commande -> mettre un commentaire de la modification apportée  
 8. depuis "sourcetree" ou en ligne de commande -> mettre à jour votre dépot Github avec la notion du push  
+
+---
 
 ## Suivi des exercices 
 ---
@@ -89,17 +92,19 @@ Desciption à venir !!!
 ### Suivi projet
 => Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
 
-=> Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir [#3](PROG_SLO1_23_24/issues/3)
+=> Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir [#3](https://github.com/PBYetml/PROG_SLO1_23_24/issues/3)
 
 ## Exercice 3
 ### Suivi projet
 => codage "individuel" 
 
-=> etat d'avancement => voir [#4](PROG_SLO1_23_24/issues/4)
+=> etat d'avancement => voir [#4](https://github.com/PBYetml/PROG_SLO1_23_24/issues/4)
 
 ## Exercice 4
 ### Suivi projet
-=> état d'avancement => [#4](PROG_SLO1_23_24/issues/4)
+=> codage "individuel" 
+
+=> état d'avancement => [#7](https://github.com/PBYetml/PROG_SLO1_23_24/issues/7)
 
 ## TESTS & PROJET => SLO1 
 ### Test1 Novembre 2023
