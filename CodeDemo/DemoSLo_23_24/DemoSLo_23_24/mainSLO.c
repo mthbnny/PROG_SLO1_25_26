@@ -27,6 +27,7 @@ enum e_Etat1 {INIT = 10, EXECUT = 100, WAIT};
 // fonction main -> point d'entreé 
 void main()
 {
+	
 	//-- déclaration variable 
 	int resultat;		// pour la sortie fct addition 
 	int val1 = 1, val2 = 2, val3 = 5;		// valeur entree fct addition 
@@ -57,6 +58,46 @@ void main()
 	// int AdditionnerDeuxValeurs(int valeur1, int valeur2); 
 	resultat = AdditionnerDeuxValeurs(val1, val2);
 
+	// condition ou test 
+	if(val1 != val2) { /* instruction */ }  // ATTENTION A NE PAS FAIRE 
+	
+	if(val1 != val2) 
+	{
+		if(maMachineEtat == EXECUT)
+		{
+			
+		}
+	
+	
+	
+	// condition 1 -> testée -> si fausse -> condition 2 
+	// -> si vrai uniquement condition 1 
+	if(val1 != val2)
+	{
+		val3 = val1; 
+	}
+	// condition 2 -> si fausee -> condsition 3 
+	if else (val1 <= val2)
+	{
+		val2 = val3; 
+	}
+	// condition 3-> 
+	else 
+	{
+		val3 = val2; 
+	}
+
+	if(val1 != val2)
+		val3 = val1; 
+
+	if (val1 <= val2)
+		val2 = val3; 
+
+	if((val1 != val2) && (val1 <= val2))
+	{
+		
+	}
+
 	//-- structure d'une machine d'état 
 	switch(maMachineEtat)
 	{
@@ -67,6 +108,9 @@ void main()
 			break; 	
 		
 		case WAIT: 
-			break; 			
+			break; 		
+
+		default :
+			break; 
 	}
 }
