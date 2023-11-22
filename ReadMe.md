@@ -58,7 +58,7 @@ Desciption à venir !!!
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Ex1 | OK | OK| OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | 
 | Ex2 | NOK | NOK | push -> non validé | NOK | push -> non validé | NOK | NOK | NOK | push -> non validé | NOK | NOK | push -> non validé | NOK | 
-| Ex3 | NOK |  issue [#6](https://github.com/PBYetml/PROG_SLO1_23_24/issues/6) / no fixed | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 | NOK |  issue [#6](https://github.com/PBYetml/PROG_SLO1_23_24/issues/6) / no fixed | DONE / Uncontrolled | NOK | NOK | DONE / Uncontrolled | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  
 | Ex5 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex6 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
