@@ -18,7 +18,7 @@
 		
 	```
 	git init
-	git branch -M votreBranche
+	git branch -M main
 	git remote add origin https://github.com/nomUserGit/votreNomDepotGit.git
 	```
 
@@ -109,4 +109,7 @@ Desciption à venir !!!
 ## TESTS & PROJET => SLO1 
 ### Test1 Novembre 2023
 => voir sources étudiants concernant certaines questions : [Réponses Etudiants SLO Test1](https://github.com/PBYetml/PROG_SLO1_TEST1_23_24)
+
+=> voir [discussion](https://github.com/PBYetml/PROG_SLO1_23_24/discussions/11) - taille d'un caractère : 
+[! Resultat Code Demo ](/CodeDemo/CodeDemoEtudiants/ResultatSolution.PNG)
 
