@@ -1,4 +1,4 @@
-# Cours de programmation année 2023 - 2024 
+# PROG - Cours de programmation année 2023 - 2024 
 ## Infos Pratique - Bonne pratique git
 
 1. Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color: #FF0000">Github</span>
@@ -28,7 +28,8 @@
 	```
 	// exemple sous windows - répertoire de travail  
 	c:\mesDossierGit\monDepot 
-		* => 3 commandes à connaitre 
+	```
+	* => 3 commandes à connaitre 
 	
 	```
 	git add -A 
