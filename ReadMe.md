@@ -88,7 +88,7 @@
 | Ex25 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
 
 ## Exercice 2
-* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo1)
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo2)
 * lien avec le chapitre 2 
 * source à disposition : - 
 
@@ -103,16 +103,61 @@
 * Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir [#3](https://github.com/PBYetml/PROG_SLO1_23_24/issues/3)
 
 ## Exercice 3
-### Suivi projet
-=> codage "individuel" 
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo3)
+* lien avec le chapitre 3 - 4  	
+* source à disposition : Ex3_V02.c
 
-=> etat d'avancement => voir [#4](https://github.com/PBYetml/PROG_SLO1_23_24/issues/4)
+### Suivi projet
+* codage "individuel" 
+* etat d'avancement => voir [#4](https://github.com/PBYetml/PROG_SLO1_23_24/issues/4)
 
 ## Exercice 4
-### Suivi projet
-=> codage "individuel" 
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo4)
+* lien avec le chapitre 3 - 4  	
+* source à disposition : Ex4_V2.C
 
-=> état d'avancement => [#7](https://github.com/PBYetml/PROG_SLO1_23_24/issues/7)
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#7](https://github.com/PBYetml/PROG_SLO1_23_24/issues/7)
+
+## Exercice 5
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo5)
+* lien avec le chapitre 3 - 4 - 5 - 6 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#15](https://github.com/PBYetml/PROG_SLO1_23_24/issues/15)
+
+## Exercice 6
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo6)
+* lien avec le chapitre 3 - 4 - 5 - 6 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#16](https://github.com/PBYetml/PROG_SLO1_23_24/issues/16)
+
+## Exercices - Série 7
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7)
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7_1)
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7_2)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 
+* source à disposition : Ex7.c 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#17](https://github.com/PBYetml/PROG_SLO1_23_24/issues/17)
+
+## Exercices - Série 8
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo8)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#19](https://github.com/PBYetml/PROG_SLO1_23_24/issues/19)
+
 
 ## TESTS & PROJET => SLO1 
 ### Test1 Novembre 2023
