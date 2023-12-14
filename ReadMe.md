@@ -88,6 +88,10 @@
 | Ex25 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
 
 ## Exercice 2
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo1)
+* lien avec le chapitre 2 
+* source à disposition : - 
+
 ### Groupe
 * Vitor | Tassilo | Luis 
 * Thomas | Etienne | Karol | Aymeric => code "pushé" mais solution non validée sur le git 
@@ -95,9 +99,8 @@
 * Matteo | Jaccob | Jérémie   
 
 ### Suivi projet
-=> Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
-
-=> Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir [#3](https://github.com/PBYetml/PROG_SLO1_23_24/issues/3)
+* Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
+* Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir [#3](https://github.com/PBYetml/PROG_SLO1_23_24/issues/3)
 
 ## Exercice 3
 ### Suivi projet
