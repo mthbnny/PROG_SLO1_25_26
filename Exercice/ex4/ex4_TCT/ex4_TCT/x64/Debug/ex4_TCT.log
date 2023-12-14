@@ -1,4 +1,0 @@
-﻿  Ex4_TCT.C
-C:\Users\tassi\Documents\git\PROG_SLO1\DEMO_Groupe_1\Exercice\ex4\ex4_TCT\ex4_TCT\Ex4_TCT.C(86,13): warning C4244: '=' : conversion de 'long' en 'short', perte possible de données
-C:\Users\tassi\Documents\git\PROG_SLO1\DEMO_Groupe_1\Exercice\ex4\ex4_TCT\ex4_TCT\Ex4_TCT.C(87,13): warning C4244: '=' : conversion de 'long' en 'short', perte possible de données
-  ex4_TCT.vcxproj -> C:\Users\tassi\Documents\git\PROG_SLO1\DEMO_Groupe_1\Exercice\ex4\ex4_TCT\x64\Debug\ex4_TCT.exe
