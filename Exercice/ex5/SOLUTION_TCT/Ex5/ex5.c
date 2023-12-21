@@ -53,7 +53,7 @@ int main(void)
                 printf("valA limite a 9.\n");
             }
 
-            else if (valA > 0)
+            else if (valA >= 0)
             {
                 for (i = 0; i <= valA; i++)
                 {
