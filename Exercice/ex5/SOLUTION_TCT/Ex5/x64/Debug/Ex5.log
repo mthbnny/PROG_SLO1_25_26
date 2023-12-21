@@ -1,0 +1,6 @@
+﻿  ex5.c
+C:\Users\tassi\Documents\git\PROG_SLO1\DEMO_Groupe_1\Exercice\ex5\SOLUTION_TCT\Ex5\ex5.c(72,24): warning C4476: 'printf' : caractère de champ de type '/' inconnu dans le spécificateur de format
+C:\Users\tassi\Documents\git\PROG_SLO1\DEMO_Groupe_1\Exercice\ex5\SOLUTION_TCT\Ex5\ex5.c(82,12): warning C4013: 'quick_exit' non défini(e) ; extern retournant int pris par défaut
+C:\Users\tassi\Documents\git\PROG_SLO1\DEMO_Groupe_1\Exercice\ex5\SOLUTION_TCT\Ex5\ex5.c(40,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tassi\Documents\git\PROG_SLO1\DEMO_Groupe_1\Exercice\ex5\SOLUTION_TCT\Ex5\ex5.c(49,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Ex5.vcxproj -> C:\Users\tassi\Documents\git\PROG_SLO1\DEMO_Groupe_1\Exercice\ex5\SOLUTION_TCT\x64\Debug\Ex5.exe
