@@ -19,8 +19,31 @@
 //-- déclaration énumération => vision dans différents fichiers sources --// 
 typedef enum { IDLE, CANCEL, RESET } e_Etat2; 
 
+//-- déclaration d'un type structure
+typedef struct 
+{
+	char *ptChar; 
+	double dataReel; 
+	e_Etat2 monEnum; 
+} str_structureDemo2; 
+
+typedef struct
+{
+	char A; 
+	short B; 
+	int C; 
+} str_demo3;
+
+typedef struct
+{
+	str_demo3 A1; 
+	str_demo3 A2; 
+} str_demo4;
+
 //-- déclaration de prototype --// 
 int AdditionnerDeuxValeurs(int valeur1, int valeur2); 
+
+void FctDATA(short *ptDemo, int tailleTB); 
 
 
 #endif
