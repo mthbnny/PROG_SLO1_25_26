@@ -20,19 +20,82 @@
 
 //-- déclaration des librairies personnelles --// 
 #include "MesFonctions.h"
+#include "demo.h"
 
 //-- déclaration globale d'une énumération (type) => vision uniquement dans ce source --// 
 enum e_Etat1 {INIT = 10, EXECUT = 100, WAIT}; 
 
+//-- déclaration d'une structure globale uniquement par rapport au fichier main.c 
+struct str_demoStructure 
+{
+	char valC; 
+	short dataNum; 
+	int tbExEntier[5]; 
+	float datareel; 
+}; 
+
+
 // fonction main -> point d'entreé 
 void main()
 {
-	
 	//-- déclaration variable 
 	int resultat;		// pour la sortie fct addition 
-	int val1 = 1, val2 = 2, val3 = 5;		// valeur entree fct addition 
+	int val1 = 1, val2 = 2, val3 = 5;		// valeur entree fct addition
+	int x, y; 
+	
+	char tbXY[2][3] = {{0, 0, 0},
+					   {0, 0, 0}}; 
+	
 	char car = 'A'; 
+	char demoChar = 0; 
+	short tbDemo[2] = { 0, 0 };        	// char tbDemo[4]; 			// tableau de 4 octets => long tbDemo[1]; 
+	short tbDemo1[] = {0, 0, 0}; 		// taille en octet 3 x 2 octets => 6 octets 
+	//short tbDemo1[10] = {0, 0, 0}; 		// taille tableau 10 x 2 octets => 20 octets -> initialisation des 3 premières valeurs 
+	short tbDemo2[100] = { 0 }; 		// Normalement toutes les casses sont à zéro. 
+	
+	//-- déclaration pointeur --// 
+	short *ptTableau; 
+	
+	//-- déclaration d'une variable de type struct 
+	// struct type_de_la_structure_a_utiliser variable_de_la_structure 
+	struct str_demoStructure maStructure; 
+	
+	str_demo4 maStructureImbriquee; 
+	
+	// accès à l'adresse la première case tableau 
+	ptTableau = &tbDemo2[0]; 	
+	ptTableau = &tbDemo2[4]; 			// ptTableau = ptTableau + 4; 	ptTableau += 4; 
+	
+	tbDemo2[0] = 0;  
+	tbDemo2[1] = 0;
+	
+	// accès à la structure 
+	maStructure.valC = 'A'; 
+	maStructure.tbExEntier[4] = 42; 
+	
+	tbDemo[0] = maStructure.dataNum; 
+	
+	maStructureImbriquee.A1.A = 'a'; 
+	maStructureImbriquee.A1.B = 100; 
 
+	// maStructureImbriquee.A1 = { 'a', 1, 2 }; // , 'b', 3, 4
+
+
+	//-- itération -> boucle for : connaitre le nombre de cases --// 
+	for(val1 = 0; val1 < NB_CASE_TB; val1++)
+	{
+		tbDemo2[val1] = 0; 
+	}
+	
+	for(x = 0, y = 0 ; x < 3; x++)
+	{
+		for(; y < 2; y++) 
+		{
+			tbXY[y][x] = 10; 
+		}
+	}
+	
+	
 	// utilisation d'énumération avec initialiation
 	enum e_Etat1 maMachineEtat = INIT; 
 	e_Etat2 maMachineEtat2 = IDLE; 
@@ -41,7 +104,7 @@ void main()
 					  // écriture en octal 07 
 					  // écriture en binaire : 0b1010  
 	
-	float demo2 = 3.14; 
+	//float demo2 = 3.14; 
 	
 	resultat = sizeof(demo);  // paramètre d'entrée -> nom d'une variable / constante ; une constante numérioque ; un type 
 
@@ -61,13 +124,14 @@ void main()
 	// condition ou test 
 	if(val1 != val2) { /* instruction */ }  // ATTENTION A NE PAS FAIRE 
 	
+	
 	if(val1 != val2) 
 	{
 		if(maMachineEtat == EXECUT)
 		{
 			
 		}
-	
+	}
 	
 	
 	// condition 1 -> testée -> si fausse -> condition 2 
@@ -77,7 +141,7 @@ void main()
 		val3 = val1; 
 	}
 	// condition 2 -> si fausee -> condsition 3 
-	if else (val1 <= val2)
+	else if (val1 <= val2)
 	{
 		val2 = val3; 
 	}
@@ -113,4 +177,9 @@ void main()
 		default :
 			break; 
 	}
+	
+	
+	
+	//-- appel de fct avec un pointeur
+	FctDATA(&tbDemo[0], val1);   // a remplacer 10 par une variable ou define 
 }

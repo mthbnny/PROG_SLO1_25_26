@@ -9,6 +9,9 @@ typedef enum {rouge, vert = 12, bleu, blanc, noir} e_couleur; 	 // e_couleur = t
 //-- définition --// 
 #define MON_ENTIER	10
 #define MILLE		1000
+#define NB_CASE_TB 100
+
+
 
 
 
