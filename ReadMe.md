@@ -158,6 +158,59 @@
 * codage "individuel" 
 * état d'avancement => [#19](https://github.com/PBYetml/PROG_SLO1_23_24/issues/19)
 
+## Exercices - Série 9
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo9)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/20)
+
+## Exercices - Série 10
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo10)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/21)
+
+## Exercices - Série 11
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo11)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/22)
+
+## Exercices - Série 12
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo12)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/23)
+
+## Exercices - Série 13
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo13)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/24)
+
+## Exercices - Série 14
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo14)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/25)
 
 ## TESTS & PROJET => SLO1 
 ### Test1 Novembre 2023
