@@ -28,10 +28,20 @@ enum e_Etat1 {INIT = 10, EXECUT = 100, WAIT};
 //-- déclaration d'une structure globale uniquement par rapport au fichier main.c 
 struct str_demoStructure 
 {
-	char valC; 
-	short dataNum; 
-	int tbExEntier[5]; 
-	float datareel; 
+	char valC; 						// 1 octet 
+	short dataNum; 					// 2 octet 
+	int tbExEntier[5];				// 20 octet  
+	float datareel; 				// 4 octets   => 27 octets 
+}; 
+
+//-- déclaration d'une union 
+union u_demoUnion
+{
+	char valA; 							// 1 octet 
+	short valB; 						// 2 octets 
+	int valC; 							// 4 octets 
+	struct str_demoStructure maStr;     // 27 octets 
+	float tbDemo[3]; 					// 12 octets => 27 octets 
 }; 
 
 
@@ -62,6 +72,21 @@ void main()
 	
 	str_demo4 maStructureImbriquee; 
 	
+	//-- déclaration union  
+	union u_demoUnion exempleUnion; 
+	
+	u_demoTrame1 exempleTrame1; 
+	
+	exempleTrame1.str_exempleStr.start = 1; 
+	exempleTrame1.str_exempleStr.data = 0xFA; 
+	exempleTrame1.str_exempleStr.parite = 0; 
+	exempleTrame1.str_exempleStr.stop = 0; 
+	
+	//-- appel fonction 
+	// fonctionEnvoi(exempleTrame1.envoiReception);  // utilisation union pour creer une variable 
+	// exempleTrame1.envoiReception = fonctionReception(); 
+	// exempleTrame1.data; 
+	
 	// accès à l'adresse la première case tableau 
 	ptTableau = &tbDemo2[0]; 	
 	ptTableau = &tbDemo2[4]; 			// ptTableau = ptTableau + 4; 	ptTableau += 4; 
@@ -80,7 +105,8 @@ void main()
 
 	// maStructureImbriquee.A1 = { 'a', 1, 2 }; // , 'b', 3, 4
 
-
+	exempleUnion.valA = 'C'; 
+	
 	//-- itération -> boucle for : connaitre le nombre de cases --// 
 	for(val1 = 0; val1 < NB_CASE_TB; val1++)
 	{
@@ -106,7 +132,9 @@ void main()
 	
 	//float demo2 = 3.14; 
 	
-	resultat = sizeof(demo);  // paramètre d'entrée -> nom d'une variable / constante ; une constante numérioque ; un type 
+	resultat = sizeof(demo);		// paramètre d'entrée -> nom d'une variable / constante ; une constante numérioque ; un type 
+	resultat = sizeof(union u_demoUnion); // permet de déterminer la taille mémoire de l'union 
+
 
 	// -- initialiation 
 	val1 = val2 +1 + val3; 

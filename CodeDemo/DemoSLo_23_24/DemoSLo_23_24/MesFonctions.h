@@ -40,6 +40,33 @@ typedef struct
 	str_demo3 A2; 
 } str_demo4;
 
+typedef struct  			
+{
+	char start:1; 
+	char data; 
+	char parite:1; 
+	char stop:1; 
+}str_exempleTrame; 
+
+
+
+
+typedef union
+{
+	// 4 octets
+	struct
+	{
+		char start;
+		char data;
+		char parite;
+		char stop;
+	}str_exempleStr; 
+	int envoiReception; 	
+} u_demoTrame1; 
+	
+
+
+
 //-- déclaration de prototype --// 
 int AdditionnerDeuxValeurs(int valeur1, int valeur2); 
 

@@ -165,7 +165,7 @@
 
 ### Suivi projet
 * codage "individuel" 
-* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/20)
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/23)
 
 ## Exercices - Série 10
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo10)
@@ -174,7 +174,7 @@
 
 ### Suivi projet
 * codage "individuel" 
-* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/21)
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/24)
 
 ## Exercices - Série 11
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo11)
@@ -183,7 +183,7 @@
 
 ### Suivi projet
 * codage "individuel" 
-* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/22)
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/25)
 
 ## Exercices - Série 12
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo12)
@@ -192,7 +192,7 @@
 
 ### Suivi projet
 * codage "individuel" 
-* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/23)
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/26)
 
 ## Exercices - Série 13
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo13)
@@ -201,7 +201,7 @@
 
 ### Suivi projet
 * codage "individuel" 
-* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/24)
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/27)
 
 ## Exercices - Série 14
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo14)
@@ -210,7 +210,7 @@
 
 ### Suivi projet
 * codage "individuel" 
-* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/25)
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/28)
 
 ## TESTS & PROJET => SLO1 
 ### Test1 Novembre 2023
