@@ -17,6 +17,7 @@
 //-- délcaration des libraires systèmes --// 
 #include <stdio.h>				// lib standard pour les entrée sortie 
 #include <stdint.h> 			// lib standard sur les entiers 
+#include <string.h>				// lib pourt la gestion de chaine de caractère
 
 //-- déclaration des librairies personnelles --// 
 #include "MesFonctions.h"
@@ -52,12 +53,22 @@ void main()
 	int resultat;		// pour la sortie fct addition 
 	int val1 = 1, val2 = 2, val3 = 5;		// valeur entree fct addition
 	int x, y; 
+	int comparChaineCar; 
 	
 	char tbXY[2][3] = {{0, 0, 0},
 					   {0, 0, 0}}; 
 	
-	char car = 'A'; 
+	char car = 'A';
+	char *car2; 	
 	char demoChar = 0; 
+	char tb1[] = "Bonjour SLO1"; 
+	char tb2[100]; 
+	
+	char tb1a[] = "SLO1"; 
+	char tb2a[] = "SLO1"; 
+	
+	
+	
 	short tbDemo[2] = { 0, 0 };        	// char tbDemo[4]; 			// tableau de 4 octets => long tbDemo[1]; 
 	short tbDemo1[] = {0, 0, 0}; 		// taille en octet 3 x 2 octets => 6 octets 
 	//short tbDemo1[10] = {0, 0, 0}; 		// taille tableau 10 x 2 octets => 20 octets -> initialisation des 3 premières valeurs 
@@ -66,6 +77,7 @@ void main()
 	//-- déclaration pointeur --// 
 	short *ptTableau; 
 	
+	unsigned int nbCaractere; 
 	//-- déclaration d'une variable de type struct 
 	// struct type_de_la_structure_a_utiliser variable_de_la_structure 
 	struct str_demoStructure maStructure; 
@@ -210,4 +222,23 @@ void main()
 	
 	//-- appel de fct avec un pointeur
 	FctDATA(&tbDemo[0], val1);   // a remplacer 10 par une variable ou define 
+	
+	//char * strcpy (char * tb2, const char *tb1 );  // prototype 
+	
+	//-- copier de tableaux -> chaine de caractère --// 
+	strcpy(&tb2[0], &tb1[0]); 
+	
+	//-- assembler deux chaines de caractères -> avec un seul /0 
+	strcat(&tb2[0], &tb1[0]);  
+	
+	//-- comparaison caractère par caractère -> lié à la table ascii
+	comparChaineCar = strcmp(&tb2a[0], &tb1a[0]); 
+	
+	//-- taille d'une chaine de caractère -- 
+	comparChaineCar = strlen(&tb1[0]); 
+	
+	//-- recherche de chaine de chaine dans une chaine de caractère
+	car2 = strstr(&tb1[0], "o"); 
+	
+	
 }
