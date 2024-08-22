@@ -1,4 +1,4 @@
-# PROG - Cours de programmation année 2023 - 2024 
+# PROG - Cours de programmation année 2024 - 2025
 ## Infos Pratique - Bonne pratique git
 
 1. Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color: #FF0000">Github</span>
@@ -59,11 +59,11 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | **[ABR](https://github.com/AlanBadertscher)** | **[NBS](https://github.com/NicolasBessson)** | **[ACL](https://github.com/Sweedy3960)** | **[TCT](https://github.com/Tass1l0)** | **[EDO](https://github.com/etideoliveira)** | **[VCO](https://github.com/kediven)** | **[KGR](https://github.com/Kazanaris)** | **[JJE](https://github.com/SwissMaverick)** | **[TMK](https://github.com/ThomasMlynek)** | **[LPI](https://github.com/luisalexanderP)** | **[MSI](https://github.com/MatteoStefanelli)** | **[KSA](https://github.com/Isand159)** | **[JBN](https://github.com/blitshteynjacobES)** |
+| Exercice \ Initial Etudiant | **[ABR]** | **[NBS]** | **[ACL]** | **[TCT]** | **[EDO]** | **[VCO]** | **[KGR]** | **[JJE]** | **[TMK]** | **[LPI]** | **[MSI]** | **[KSA]** | **[JBN]** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ex1 | OK | OK| OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | 
-| Ex2 | NOK | NOK | push -> non validé | NOK | push -> non validé | NOK | NOK | NOK | push -> non validé | NOK | NOK | push -> non validé | NOK | 
-| Ex3 | NOK |  issue [#6](https://github.com/PBYetml/PROG_SLO1_23_24/issues/6) / no fixed | DONE / Uncontrolled | NOK | NOK | DONE / Uncontrolled | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex1 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex2 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  
 | Ex5 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex6 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -93,14 +93,11 @@
 * source à disposition : - 
 
 ### Groupe
-* Vitor | Tassilo | Luis 
-* Thomas | Etienne | Karol | Aymeric => code "pushé" mais solution non validée sur le git 
-* Alan | Nicolas | Kirian  
-* Matteo | Jaccob | Jérémie   
+*    
 
 ### Suivi projet
 * Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
-* Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir [#3](https://github.com/PBYetml/PROG_SLO1_23_24/issues/3)
+* Partie B => réaliser code selon diagramme reçu => voir état d'avancement : 
 
 ## Exercice 3
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo3)

@@ -16,6 +16,18 @@
 #ifndef MES_FONCTIONS_H  // généralement nom du fichier headerFile 
 #define MES_FONCTIONS_H
 
+//-- déclaration définition 
+
+
+//-- EXEMPLE CI-DESSOUS NON VALIDE => Expérimenté par EDO => A NE PAS FAIRE  
+/*
+#define ETAT_INIT 1
+#define ETAT_ATTENTE 2
+#define ETAT_EXECUT 3
+
+typedef enum { ETAT_INIT, ETAT_ATTENTE, ETAT_EXECUT } e_ETAT;
+*/
+
 //-- déclaration énumération => vision dans différents fichiers sources --// 
 typedef enum { IDLE, CANCEL, RESET } e_Etat2; 
 
