@@ -59,33 +59,33 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | **[ABR]** | **[NBS]** | **[ACL]** | **[TCT]** | **[EDO]** | **[VCO]** | **[KGR]** | **[JJE]** | **[TMK]** | **[LPI]** | **[MSI]** | **[KSA]** | **[JBN]** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ex1 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex2 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex3 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex4 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  
-| Ex5 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex6 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex7 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex8 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex9 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex10 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex11 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex12 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex13 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex14 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex15 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex16 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex17 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex18 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex19 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex20 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex21 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex22 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex23 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex24 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex25 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
+| Exercice \ Initial Etudiant | **[KGR](https://github.com/Kazanaris)** | **[RBN]** | **[LCX]** | **[LFO]** | **[FGT]** | **[HMT]** | **[ANE]** | **[ARD]** | **[DSY]** | **[BSH]** | **[BZI]** | 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ex1 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex2 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex4 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
+| Ex5 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex6 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex7 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex8 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex9 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex10 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex11 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex12 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex13 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex14 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex15 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex16 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex17 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex18 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex19 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex20 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex21 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex22 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex23 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex24 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
+| Ex25 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 
 ## Exercice 2
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo2)
