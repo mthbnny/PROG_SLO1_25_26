@@ -59,9 +59,9 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | **[KGR](https://github.com/Kazanaris)** | **[RBN]** | **[LCX]** | **[LFO]** | **[FGT]** | **[HMT]** | **[ANE]** | **[ARD]** | **[DSY]** | **[BSH]** | **[BZI]** | 
+| Exercice \ Initial Etudiant | **[KGR](https://github.com/Kazanaris)** | **[RBN]** | **[LCX]** | **[LFO]** | **[FGT]** | **[HMT](https://github.com/HENRIIIIIIIII)** | **[ANE]** | **[ARD]** | **[DSY]** | **[BSH]** | **[BZI]** | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ex1 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex1 | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
 | Ex2 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex3 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex4 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
