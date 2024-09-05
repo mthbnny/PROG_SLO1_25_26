@@ -93,7 +93,10 @@
 * source à disposition : - 
 
 ### Groupe
-*    
+* Flow chart 			=> BZI - LCX - ANE
+* Structogramme NSI		=> HMT - BSH
+* Structogramme Jackson	=> KGR - LFO - FGT 
+* Pseudo-Code 			=> RBN - DSY - ARD 
 
 ### Suivi projet
 * Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
