@@ -59,7 +59,7 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | **[KGR](https://github.com/Kazanaris)** | **[RBN]** | **[LCX](https://github.com/REXI38)** | **[LFO]** | **[FGT]** | **[HMT](https://github.com/HENRIIIIIIIII)** | **[ANE]** | **[ARD]** | **[DSY](https://github.com/Z1nghy)** | **[BSH]** | **[BZI](https://github.com/P60B40)** | 
+| Exercice \ Initial Etudiant | **[KGR](https://github.com/Kazanaris)** | **[RBN](https://github.com/Renato1226)** | **[LCX](https://github.com/REXI38)** | **[LFO](VolutedPenny235)** | **[FGT](https://github.com/fredericgoyet)** | **[HMT](https://github.com/HENRIIIIIIIII)** | **[ANE](https://github.com/Nintalbdly)** | **[ARD](https://github.com/Alex84628)** | **[DSY](https://github.com/Z1nghy)** | **[BSH](https://github.com/Hayatache)** | **[BZI](https://github.com/P60B40)** | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Ex1 | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
 | Ex2 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -93,10 +93,10 @@
 * source à disposition : - 
 
 ### Groupe
-* Flow chart 			=> BZI - LCX - ANE
-* Structogramme NSI		=> HMT - BSH
-* Structogramme Jackson	=> KGR - LFO - FGT 
-* Pseudo-Code 			=> RBN - DSY - ARD 
+* Flow chart 			=> BZI - LCX - ANE	| verificateur => FGT - DSY 
+* Structogramme NSI		=> HMT - BSH		| verificateur => BZI - KGR - RBN 
+* Structogramme Jackson	=> KGR - LFO - FGT 	| verificateur => LCX - BSH - ARD 
+* Pseudo-Code 			=> RBN - DSY - ARD 	| verificateur => ANE - HMT - LFO 
 
 ### Suivi projet
 * Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
