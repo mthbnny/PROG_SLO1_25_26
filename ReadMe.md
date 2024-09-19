@@ -1,4 +1,4 @@
-# PROG - Cours de programmation année 2023 - 2024 
+# PROG - Cours de programmation année 2024 - 2025
 ## Infos Pratique - Bonne pratique git
 
 1. Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color: #FF0000">Github</span>
@@ -59,57 +59,158 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | **[ABR](https://github.com/AlanBadertscher)** | **[NBS](https://github.com/NicolasBessson)** | **[ACL](https://github.com/Sweedy3960)** | **[TCT](https://github.com/Tass1l0)** | **[EDO](https://github.com/etideoliveira)** | **[VCO](https://github.com/kediven)** | **[KGR](https://github.com/Kazanaris)** | **[JJE](https://github.com/SwissMaverick)** | **[TMK](https://github.com/ThomasMlynek)** | **[LPI](https://github.com/luisalexanderP)** | **[MSI](https://github.com/MatteoStefanelli)** | **[KSA](https://github.com/Isand159)** | **[JBN](https://github.com/blitshteynjacobES)** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ex1 | OK | OK| OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | 
-| Ex2 | NOK | NOK | push -> non validé | NOK | push -> non validé | NOK | NOK | NOK | push -> non validé | NOK | NOK | push -> non validé | NOK | 
-| Ex3 | NOK |  issue [#6](https://github.com/PBYetml/PROG_SLO1_23_24/issues/6) / no fixed | DONE / Uncontrolled | NOK | NOK | DONE / Uncontrolled | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex4 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  
-| Ex5 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex6 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex7 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex8 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex9 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex10 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex11 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex12 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex13 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex14 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex15 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex16 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex17 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex18 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex19 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex20 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex21 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex22 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex23 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex24 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex25 | NOK |  NOK | NOK | NOK | NOK | NOK | NOK |  NOK | NOK | NOK | NOK | NOK | NOK | 
+| Exercice \ Initial Etudiant | **[KGR](https://github.com/Kazanaris)** | **[RBN](https://github.com/Renato1226)** | **[LCX](https://github.com/REXI38)** | **[LFO](VolutedPenny235)** | **[FGT](https://github.com/fredericgoyet)** | **[HMT](https://github.com/HENRIIIIIIIII)** | **[ANE](https://github.com/Nintalbdly)** | **[ARD](https://github.com/Alex84628)** | **[DSY](https://github.com/Z1nghy)** | **[BSH](https://github.com/Hayatache)** | **[BZI](https://github.com/P60B40)** | 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ex1 | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
+| Ex2 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex4 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
+| Ex5 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex6 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex7 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex8 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex9 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex10 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex11 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex12 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex13 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex14 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex15 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex16 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex17 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex18 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex19 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex20 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex21 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex22 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex23 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex24 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
+| Ex25 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 
 ## Exercice 2
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo2)
+* lien avec le chapitre 2 
+* source à disposition : - 
+
 ### Groupe
-* Vitor | Tassilo | Luis 
-* Thomas | Etienne | Karol | Aymeric => code "pushé" mais solution non validée sur le git 
-* Alan | Nicolas | Kirian  
-* Matteo | Jaccob | Jérémie   
+* Flow chart 			=> BZI - LCX - ANE	| verificateur => FGT - DSY 
+* Structogramme NSI		=> HMT - BSH		| verificateur => BZI - KGR - RBN 
+* Structogramme Jackson	=> KGR - LFO - FGT 	| verificateur => LCX - BSH - ARD 
+* Pseudo-Code 			=> RBN - DSY - ARD 	| verificateur => ANE - HMT - LFO 
 
 ### Suivi projet
-=> Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
-
-=> Partie B => réaliser code selon diagramme reçu => voir état d'avancement : voir [#3](https://github.com/PBYetml/PROG_SLO1_23_24/issues/3)
+* Partie A => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
+* Partie B => réaliser code selon diagramme reçu => voir état d'avancement : 
 
 ## Exercice 3
-### Suivi projet
-=> codage "individuel" 
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo3)
+* lien avec le chapitre 3 - 4  	
+* source à disposition : Ex3_V02.c
 
-=> etat d'avancement => voir [#4](https://github.com/PBYetml/PROG_SLO1_23_24/issues/4)
+### Suivi projet
+* codage "individuel" 
+* etat d'avancement => voir [#4](https://github.com/PBYetml/PROG_SLO1_23_24/issues/4)
 
 ## Exercice 4
-### Suivi projet
-=> codage "individuel" 
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo4)
+* lien avec le chapitre 3 - 4  	
+* source à disposition : Ex4_V2.C
 
-=> état d'avancement => [#7](https://github.com/PBYetml/PROG_SLO1_23_24/issues/7)
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#7](https://github.com/PBYetml/PROG_SLO1_23_24/issues/7)
+
+## Exercice 5
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo5)
+* lien avec le chapitre 3 - 4 - 5 - 6 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#15](https://github.com/PBYetml/PROG_SLO1_23_24/issues/15)
+
+## Exercice 6
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo6)
+* lien avec le chapitre 3 - 4 - 5 - 6 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#16](https://github.com/PBYetml/PROG_SLO1_23_24/issues/16)
+
+## Exercices - Série 7
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7)
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7_1)
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo7_2)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 
+* source à disposition : Ex7.c 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#17](https://github.com/PBYetml/PROG_SLO1_23_24/issues/17)
+
+## Exercices - Série 8
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo8)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#19](https://github.com/PBYetml/PROG_SLO1_23_24/issues/19)
+
+## Exercices - Série 9
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo9)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/23)
+
+## Exercices - Série 10
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo10)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/24)
+
+## Exercices - Série 11
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo11)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/25)
+
+## Exercices - Série 12
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo12)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/26)
+
+## Exercices - Série 13
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo13)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 - 8 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/27)
+
+## Exercices - Série 14
+* voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo14)
+* lien avec le chapitre 3 - 4 - 5 - 6 - 7 	
+* source à disposition : - 
+
+### Suivi projet
+* codage "individuel" 
+* état d'avancement => [#](https://github.com/PBYetml/PROG_SLO1_23_24/issues/28)
 
 ## TESTS & PROJET => SLO1 
 ### Test1 Novembre 2023
