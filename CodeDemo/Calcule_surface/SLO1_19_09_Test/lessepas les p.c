@@ -23,9 +23,11 @@
 //----------------------------------------------------------------------------------//
 //Ta mère :D 
 
+#define _USE_MATH_DEFINES
+
+
 //-- apple de librairies
 #include <math.h> //
-#include <corecrt_math_defines.h>
 //pour la popup
 #include <stdio.h>
 
