@@ -20,13 +20,14 @@
 // 						  -> http://fr.wikipedia.org/wiki/String.h
 //----------------------------------------------------------------------------------//
 
+
 //--- librairie standart ---//
 #include <stdio.h>	// pour usage printf et scanf_s
                     // Nouveauté du VC++ 2005, 2008, 2010 et 2015 : le scanf_s remplace scanf
 #include <math.h>
 #include <corecrt_math_defines.h>
 
-
+#define _USE_MATH_DEFINES
 //-- ancienne methode de déclaration des constantes --//
 /*
 #define carre 1
@@ -89,6 +90,7 @@ int main(void)
 
                 //Calcule de la surface du carré
                 surfaceCarre_m2 = longueurCarre_m * largeurCarre_m;
+                //surfaceCarre_m2 = powf(longueurCarre_m, 2); // voici comment faire pour calculer avec un carré
 
                 //Affiche la valeur de la surface du carré
                 printf("\nsurfaceCarre_m2 = %f", surfaceCarre_m2);
@@ -137,7 +139,7 @@ int main(void)
 
                 //Calcule de la surface du cercle
                 surfaceCercle_m2 = M_PI * (rayon_m * rayon_m);
-
+                //surfaceCercle_m2 = M_PI * powf(rayon_m, 2);
                 //Affiche la valeur de la surface du cercle
                 printf("\nsurfaceCercle_m2 = %f", surfaceCercle_m2);
 
@@ -155,4 +157,3 @@ int main(void)
 
  
 }
-    
