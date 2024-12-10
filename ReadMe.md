@@ -66,10 +66,10 @@
 | [Ex2A](https://github.com/ETML-ES-SLO/PROG_SLO1_24_25/tree/main/Exercice/Exo2) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
 | [Ex2B] | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex2C](https://github.com/PBYetml/PROG_SLO1_24_25/issues/33) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
-| [Ex3](https://github.com/PBYetml/PROG_SLO1_24_25/issues/38) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | OK | 
-| [Ex4](https://github.com/PBYetml/PROG_SLO1_24_25/issues/39) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
+| [Ex3](https://github.com/PBYetml/PROG_SLO1_24_25/issues/38) | NOK | NOK| NOK| NOK | NOK | NOK | OK | NOK | NOK | NOK | OK | 
+| [Ex4](https://github.com/PBYetml/PROG_SLO1_24_25/issues/39) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | OK |  
 | [Ex5](https://github.com/PBYetml/PROG_SLO1_24_25/issues/40) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex6](https://github.com/PBYetml/PROG_SLO1_24_25/issues/44) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex6](https://github.com/PBYetml/PROG_SLO1_24_25/issues/44) | NOK | NOK| NOK| NOK | NOK | NOK | OK | NOK | NOK | NOK | OK | 
 | [Ex7](https://github.com/PBYetml/PROG_SLO1_24_25/issues/45) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex7B](https://github.com/PBYetml/PROG_SLO1_24_25/issues/46) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex8 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
