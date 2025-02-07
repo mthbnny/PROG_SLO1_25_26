@@ -25,9 +25,10 @@ Exemple avec une inversion de nombre les pointeurs nous permette de ne pas passe
 void change_nombre(int *pt_nb) {
 	
 	*pt_nb = 15;
-	printf("Adresse pointeur : ",&pt_nb); 
-	printf("Adresse pointee : ",pt_nb);
-	printf("valeur Adresse pointee : ",*pt_nb);
+	printf("\n Adresse du pointeur : %p \n", &pt_nb); 
+	//printf("Adresse du pointeur : %p \n", pt_nb);
+	printf("Adresse pointee : %p \n", pt_nb);
+	printf("valeur Adresse pointee : %d \n ",*pt_nb);
 
 }
 
@@ -35,9 +36,13 @@ int main(void) {
 
 	int nombre = 0;
 
-	printf("nombre = %d\n", nombre);
+	printf("Adresse de nombre = %p \n", &nombre);
+	printf("Valeur de nombre = %d \n", nombre);
+	
 	change_nombre(&nombre);
-	printf("nombre = %d\n", nombre);
+	
+	printf("Adresse de nombre apres appel de fct = %p \n", &nombre);
+	printf("Valeur de nombre apres appel de fct = %d \n", nombre);
 
 	return 0;
 
