@@ -304,3 +304,40 @@ void FonctionSTR_UNION()
     printf("%x\n", test.s1[1].d3);
 
 }
+
+
+
+int fctMemDynamique(uint8_t nbNote)
+{
+    
+    float moyenne;
+    float *ptmemoire; 
+    short* ptmemoire2; 
+
+
+    //-- paramétrage de la plage globale à disposition  --// 
+    ptmemoire = malloc(12);         //12 octets 
+
+    ptmemoire2 = malloc(12);        //12 octets
+
+    //-- exemple 1 
+    ptmemoire = malloc(nbNote * sizeof(float));
+    free(ptmemoire); 
+
+    //-- exemple 2
+    ptmemoire = malloc(nbNote * sizeof(ptmemoire));
+    free(ptmemoire);
+
+    //-- exemple 3 -> remise à zéro de case mémoire 
+    ptmemoire = calloc(nbNote, sizeof(ptmemoire)); 
+
+
+    //-- exemple 4 -> réalocation 
+    realloc(ptmemoire, nbNote * sizeof(double)); 
+
+    ptmemoire[0] = 6.0; 
+
+
+ 
+
+}

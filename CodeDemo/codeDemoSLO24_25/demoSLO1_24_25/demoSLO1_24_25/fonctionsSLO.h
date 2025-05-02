@@ -118,7 +118,7 @@ int slo(void);
                                       (integer, real, enumration) and the use of
                                       operators
 ----------------------------------------------------------------------------------- */
-e_surfaceChoice DemonstrationSlo1(int A, char B, double DD);
+//enum e_surfaceChoice DemonstrationSlo1(int A, char B, double DD);
 
 
 void fonctionDemopt(int A, int* pt_B); 
