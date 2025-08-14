@@ -1,4 +1,4 @@
-# PROG - Cours de programmation année 2024 - 2025
+# PROG - Cours de programmation année 2025 - 2026
 ## Infos Pratique - Bonne pratique git
 ###Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color:#FF0000;">Github</span>
 	
@@ -60,36 +60,36 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | **[KGR](https://github.com/Kazanaris)** | **[RBN](https://github.com/Renato1226)** | **[LCX](https://github.com/REXI38)** | **[LFO](https://github.com/VolutedPenny235)** | **[FGT](https://github.com/fredericgoyet)** | **[HMT](https://github.com/HENRIIIIIIIII)** | **[ANE](https://github.com/Nintalbdly)** | **[ARD](https://github.com/Alex84628)** | **[DSY](https://github.com/Z1nghy)** | **[BSH](https://github.com/Hayatache)** | **[BZI](https://github.com/P60B40)** | 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Ex1](https://github.com/ETML-ES-SLO/PROG_SLO1_24_25/tree/main/Exercice/Exo1) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
-| [Ex2A](https://github.com/ETML-ES-SLO/PROG_SLO1_24_25/tree/main/Exercice/Exo2) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
-| [Ex2B] | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex2C](https://github.com/PBYetml/PROG_SLO1_24_25/issues/33) | OK | OK| OK| OK | OK | OK | OK | OK | OK | OK | OK | 
-| [Ex3](https://github.com/PBYetml/PROG_SLO1_24_25/issues/38) | NOK | NOK| NOK| NOK | NOK | NOK | OK | NOK | NOK | NOK | OK | 
-| [Ex4](https://github.com/PBYetml/PROG_SLO1_24_25/issues/39) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | OK |  
-| [Ex5](https://github.com/PBYetml/PROG_SLO1_24_25/issues/40) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex6](https://github.com/PBYetml/PROG_SLO1_24_25/issues/44) | NOK | NOK| NOK| NOK | NOK | NOK | OK | NOK | NOK | NOK | OK | 
-| [Ex7](https://github.com/PBYetml/PROG_SLO1_24_25/issues/45) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex7B](https://github.com/PBYetml/PROG_SLO1_24_25/issues/46) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex8](https://github.com/PBYetml/PROG_SLO1_24_25/issues/50) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex9](https://github.com/PBYetml/PROG_SLO1_24_25/issues/51) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex10](https://github.com/PBYetml/PROG_SLO1_24_25/issues/52) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex11](https://github.com/PBYetml/PROG_SLO1_24_25/issues/53) | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex12 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex13 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex14 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex15 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex16 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex17 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex18 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex19 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex20 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex21 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex22 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex23 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex24 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
-| Ex25 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Exercice \ Initial Etudiant | **[NAM]()** | **[CAH]()** | **[MBY]()** | **[LDE]()** | **[TDS]()** | **[DEA]()** | **[LMY]()** | **[VMD]()** | **[FOD]()** | **[SPY]()** | **[SSR]()** | **[NTN]()** | **[SVD]()** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Ex1]()  | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex2A]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex2B]   | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex2C]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex3]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex4]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex5]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex6]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex7]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex7B]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex8]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex9]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex10]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex11]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex12 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex13 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex14 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex15 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex16 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex17 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex18 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex19 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex20 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex21 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex22 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex23 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex24 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex25 | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 
 ## Exercice 2
 * voir [CDC - PDF](https://github.com/PBYetml/PROG_SLO1_23_24/tree/main/Exercice/Exo2)
@@ -97,13 +97,13 @@
 * source à disposition : - 
 
 ### Groupe
-* Flow chart 			=> BZI - LCX - ANE	| verificateur => FGT - DSY 
-* Structogramme NSI		=> HMT - BSH		| verificateur => BZI - KGR - RBN 
-* Structogramme Jackson	=> KGR - LFO - FGT 	| verificateur => LCX - BSH - ARD 
-* Pseudo-Code 			=> RBN - DSY - ARD 	| verificateur => ANE - HMT - LFO 
+* Flow chart 			=> 	| verificateur =>  
+* Structogramme NSI		=> 		| verificateur =>  
+* Structogramme Jackson	=>  	| verificateur =>  
+* Pseudo-Code 			=>  	| verificateur => 
 
 ### Suivi projet
-* [Partie A](https://github.com/PBYetml/PROG_SLO1_24_25/tree/main/Exercice/Exo2) => réaliser un flow chart / pseudo code / structogramme : jackson ou NSI => Etat fini !!!
+* [Partie A](https://github.com/PBYetml/PROG_SLO1_24_25/tree/main/Exercice/Exo2) => réaliser un flow chart / pseudo code / structogramme : 
 * Partie B => réaliser code selon diagramme reçu => voir état d'avancement : 
 * [Partie C](https://github.com/PBYetml/PROG_SLO1_24_25/tree/main/CodeDemo/codeDemoSLO24_25/demoSLO1_24_25/demoSLO1_24_25) => réaliser un code permettant de calculer la surface d'une forme géométrique 
 
