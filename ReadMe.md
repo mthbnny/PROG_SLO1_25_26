@@ -1,6 +1,6 @@
 # PROG - Cours de programmation année 2025 - 2026
 ## Infos Pratique - Bonne pratique git
-###Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color:#FF0000;">Github</span>
+### Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color:#FF0000;">Github</span>
 	
 * => vous créez et gérez votre **propre dépôt** (local -> serveur)
 	
@@ -60,11 +60,11 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | **[NAM]()** | **[CAH]()** | **[MBY]()** | **[LDE]()** | **[TDS]()** | **[DEA]()** | **[LMY]()** | **[VMD]()** | **[FOD]()** | **[SPY]()** | **[SSR]()** | **[NTN]()** | **[SVD]()** |
+| Exercice \ Initial Etudiant | **[NAM]()** | **[CAH]()** | **[MBY](https://github.com/mthbnny)** | **[LDE]()** | **[TDS]()** | **[DEA]()** | **[LMY]()** | **[VMD]()** | **[FOD]()** | **[SPY]()** | **[SSR]()** | **[NTN]()** | **[SVD]()** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Ex1]()  | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex2A]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex2B]   | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex2B]()   | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex2C]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex3]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | [Ex4]() | NOK | NOK| NOK| NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -97,7 +97,7 @@
 * source à disposition : - 
 
 ### Groupe
-* Flow chart 			=> 	| verificateur =>  
+* Flow chart 			=> 		| verificateur =>  
 * Structogramme NSI		=> 		| verificateur =>  
 * Structogramme Jackson	=>  	| verificateur =>  
 * Pseudo-Code 			=>  	| verificateur => 
