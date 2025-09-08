@@ -1,4 +1,4 @@
-# PROG - Cours de programmation année 2025 - 2026 -> V0.2
+# PROG - Cours de programmation année 2025 - 2026 -> V0.3
 ## Infos Pratique - Bonne pratique git
 ### Créer un compte sur un serveur GIT => pour l'ES nous utiliserons <span sytle="color:#FF0000;">Github</span>
 	
