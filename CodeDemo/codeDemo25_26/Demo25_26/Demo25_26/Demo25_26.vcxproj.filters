@@ -18,5 +18,13 @@
     <ClCompile Include="demo.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="ConversionPerso.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Conversion.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
