@@ -86,8 +86,10 @@ void main()
 	//--définition d'un type enumération -> e_machineEtat -> locale --// 
 					  //ETAT1 = 0, ETAT2 = 20, ETAT3 = 21
 	enum e_machineEtat { AVANCE, RECULE = 20, TOURNE_G, TOURNE_D, ROTATION }; 
-
 	enum e_machineEtat robot = AVANCE; 
+
+	//-- utilisation d'une énumération globale -> e_FORME --// 
+	e_FORME formeGeo = RECTANGLE; 
 
 	printf("\ntaille de l'enum robot %d [o]", sizeof(robot));
 
